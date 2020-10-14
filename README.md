@@ -6,4 +6,4 @@ the quality, thought, editing or content that I otherwise strive for in my
 blog. They may also be here simply because I consider them off topic for my
 blog, which I try to keep focused on technical topics.
 
-Licensed under [UNLICENSE](https://unlicense.org).
+Licensed under the CC0.
