@@ -83,7 +83,7 @@ some of these corporations also play a huge role in the FOSS world itself, this
 leads to systemic network effects that push folks strongly towards the use of
 permissive licenses. Thus, putting aside ideology and activism, it is simply a
 reality that if I publish a library with a copyleft license, it's less likely
-to be used by folks, which is inhibits my goal.
+to be used by folks, which inhibits my goal.
 
 Fourthly, the use of copyleft somewhat implies that my highest goal is the
 preservation of the four essential freedoms. But my highest desire is actually
